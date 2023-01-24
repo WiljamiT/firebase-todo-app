@@ -1,0 +1,11 @@
+.enter {
+    color: #F2F2F2;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+}
+
+.wrong {
+    color: red;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+}
